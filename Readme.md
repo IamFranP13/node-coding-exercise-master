@@ -25,5 +25,6 @@ Understanding the mock data, creating the tests, and the code development have t
 As a result, I haven't been able to complete the tests as I would have liked, and there are two test cases left to implement,
 which would be:
 
-- Test with empty objects or fields
-- Test with malformed input data
+- Test with empty objects or fields.
+- Test with malformed input data, do it on TypeScript could solve this problem.
+  
