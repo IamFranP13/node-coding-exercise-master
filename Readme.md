@@ -7,6 +7,7 @@ from a mock file and creating a new file with those duplicates removed.
 
 ## Use
 
+- git clone https://github.com/IamFranP13/node-coding-exercise-master.git
 - npm install
 - npm run start
 
